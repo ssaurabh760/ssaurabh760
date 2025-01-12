@@ -27,8 +27,8 @@ Software Engineer specializing in Cloud Architecture and Full Stack Development.
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
-## 📊 Contribution Graph
-![Snake animation](https://github.com/ssaurabh760/ssaurabh760/blob/output/github-contribution-grid-snake.svg)
+## 💻 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssaurabh760&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Education
 - MS in Information Systems, Northeastern University (3.77/4.0)
