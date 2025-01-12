@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Saurabh Srivastava
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/saurabh-srivastava-0a0765268/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:srivastava.sau@northeastern.edu)
 
 ## 👨‍💻 About Me
 Software Engineer specializing in Cloud Architecture and Full Stack Development. Currently pursuing MS in Information Systems at Northeastern University. Passionate about building scalable, secure cloud-native solutions and automating infrastructure.
@@ -31,7 +30,7 @@ Software Engineer specializing in Cloud Architecture and Full Stack Development.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssaurabh760&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Education
-- MS in Information Systems, Northeastern University (3.77/4.0)
+- MS in Information Systems, Northeastern University (3.8/4.0)
 - B.Tech, Manipal Institute of Technology
 
 ## 📫 Get in Touch
