@@ -1,3 +1,39 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+            <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Background rectangle -->
+    <rect width="100%" height="100%" fill="url(#grad1)"/>
+    
+    <!-- Decorative elements -->
+    <circle cx="650" cy="50" r="30" fill="#ffffff20"/>
+    <circle cx="100" cy="150" r="40" fill="#ffffff15"/>
+    
+    <!-- Main text -->
+    <text x="400" y="100" 
+          font-family="Arial, sans-serif" 
+          font-size="48" 
+          font-weight="bold" 
+          fill="#fff" 
+          text-anchor="middle"
+          >Saurabh Srivastava</text>
+    
+    <!-- Subtitle -->
+    <text x="400" y="140" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#ffffff90" 
+          text-anchor="middle"
+          >Software Engineer | Cloud Architect</text>
+</svg>
+
+
 # Hi there 👋, I'm Saurabh Srivastava
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/saurabh-srivastava-0a0765268/)
