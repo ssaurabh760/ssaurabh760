@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Saurabh Srivastava
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/saurabh-srivastava-0a0765268/)
+![Profile Views](https://komarev.com/ghpvc/?username=ssaurabh760&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 Software Engineer specializing in Cloud Architecture and Full Stack Development. Currently pursuing MS in Information Systems at Northeastern University. Passionate about building scalable, secure cloud-native solutions and automating infrastructure.
